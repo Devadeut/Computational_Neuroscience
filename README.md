@@ -1,3 +1,4 @@
+
 # Computational_Neuroscience
 Semester project
 ##### phase-plane plot with nullclines, equilibrium points, and arrows: 
@@ -7,7 +8,7 @@ Semester project
 
 ##### Phase with different phi ( action potential in MLE)
 
-<img src="https://github.com/user-attachments/assets/3862a502-3002-48b2-b764-7a89c4712780" width="400" />
+<img src="https://github.com/user-attachments/assets/a28131c9-38be-403e-bb96-19e55f7f26d6" width="400" />
 
 <img src="https://github.com/user-attachments/assets/c686f217-f56e-412f-a843-ea1785c08f48" width="400" />
 
