@@ -8,3 +8,6 @@ Semester project
 #### Phase with different phi ( action potential in MLE)
 
 ![act](https://github.com/user-attachments/assets/3862a502-3002-48b2-b764-7a89c4712780)
+
+
+![act](https://github.com/user-attachments/assets/c686f217-f56e-412f-a843-ea1785c08f48)
