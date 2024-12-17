@@ -12,7 +12,7 @@ Semester project
 
 <img src="https://github.com/user-attachments/assets/c686f217-f56e-412f-a843-ea1785c08f48" width="400" />
 
-###### Simulate depolarizing current pulses of various amplitudes by setting the voltage initial condition to a succession of values positive to the resting potential while starting w at the equilibrium point. 
+##### Simulate depolarizing current pulses of various amplitudes by setting the voltage initial condition to a succession of values positive to the resting potential while starting w at the equilibrium point. 
 
 Action potentials are usually thought to have thresholds. Does the MLE with the
 given set of parameters have a threshold depolarization? 
@@ -24,7 +24,7 @@ do not produce action potentials.
 
 <img src="https://github.com/user-attachments/assets/0c5865b2-95ea-472a-88e3-6e3117b9b0e3" width="400" />
 
- ###### Plot of the three trajectories on a phase plane:
+ ##### Plot of the three trajectories on a phase plane:
  1) Set the initial conditions to the equilibrium point used above, appropriate for Iext=0;
  2) Set the initial conditions to the equilibrium point when Iext=86 μA/cm2;
  3) Set the initial conditions off the equilibrium point for Iext=86 μA/cm2, say at (-27.9, 0.17).
