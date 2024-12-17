@@ -23,3 +23,12 @@ Plot of phase-plane trajectories for values of initial depolarization that do an
 do not produce action potentials.
 
 <img src="https://github.com/user-attachments/assets/0c5865b2-95ea-472a-88e3-6e3117b9b0e3" width="400" />
+
+ ###### Plot of the three trajectories on a phase plane:
+ 1) Set the initial conditions to the equilibrium point used above, appropriate for Iext=0;
+ 2) Set the initial conditions to the equilibrium point when Iext=86 μA/cm2;
+ 3) Set the initial conditions off the equilibrium point for Iext=86 μA/cm2, say at (-27.9, 0.17).
+
+    
+<img src="https://github.com/user-attachments/assets/1dff8290-424a-4b9f-8583-01b03332b554" width="400" />
+    
