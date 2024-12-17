@@ -11,3 +11,5 @@ Semester project
 
 
 ![act](https://github.com/user-attachments/assets/c686f217-f56e-412f-a843-ea1785c08f48)
+
+###### Simulate depolarizing current pulses of various amplitudes by setting the voltage initial condition to a succession of values positive to the resting potential while starting w at the equilibrium point. 
