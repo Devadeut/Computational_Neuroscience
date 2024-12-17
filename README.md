@@ -7,20 +7,18 @@ Semester project
 
 ##### Phase with different phi ( action potential in MLE)
 
-![act](https://github.com/user-attachments/assets/3862a502-3002-48b2-b764-7a89c4712780)
+<img src="https://github.com/user-attachments/assets/3862a502-3002-48b2-b764-7a89c4712780" width="400" />
 
-
-![act](https://github.com/user-attachments/assets/c686f217-f56e-412f-a843-ea1785c08f48)
+<img src="https://github.com/user-attachments/assets/c686f217-f56e-412f-a843-ea1785c08f48" width="400" />
 
 ###### Simulate depolarizing current pulses of various amplitudes by setting the voltage initial condition to a succession of values positive to the resting potential while starting w at the equilibrium point. 
 
 Action potentials are usually thought to have thresholds. Does the MLE with the
 given set of parameters have a threshold depolarization? 
 
-![depolar](https://github.com/user-attachments/assets/630c52a0-6b0d-460e-ac1c-8c3781aa1d9f)
+<img src="https://github.com/user-attachments/assets/630c52a0-6b0d-460e-ac1c-8c3781aa1d9f" width="400" />
 
 Plot of phase-plane trajectories for values of initial depolarization that do and
 do not produce action potentials.
 
-![depolar2](https://github.com/user-attachments/assets/0c5865b2-95ea-472a-88e3-6e3117b9b0e3)
-
+<img src="https://github.com/user-attachments/assets/0c5865b2-95ea-472a-88e3-6e3117b9b0e3" width="400" />
