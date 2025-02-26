@@ -1,6 +1,7 @@
 
 # Computational_Neuroscience
-Semester project
+Semester project: 
+The first part was designed to numerically simulate the Moris Lecar Equations (MLE) and perform phase plane analysis. In the second part the project builds on the MLE to simulate Hodgkin Huxley (HH) equations and then simulations of other HH type models of neurons.
 #### phase-plane plot with nullclines, equilibrium points, and arrows: 
 
 <img src="https://github.com/user-attachments/assets/8d0c3eee-66f6-4f9d-9d02-463a6fae656f" width="400" />
